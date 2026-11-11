@@ -1,0 +1,30 @@
+# Each app also has its own .gitignore so it can be deployed independently.
+
+# personal study notes (never committed)
+study-notes/
+
+# dependencies
+node_modules/
+
+# build output
+.next/
+out/
+dist/
+build/
+
+# testing
+coverage/
+
+# environment files
+.env*
+
+# logs
+*.log
+
+# TypeScript
+*.tsbuildinfo
+
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/

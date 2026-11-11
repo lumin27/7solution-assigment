@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+
+# testing
+coverage/
+
+# environment files
+.env*
+
+# logs
+*.log
+
+# TypeScript
+*.tsbuildinfo
+
+# OS files
+.DS_Store
